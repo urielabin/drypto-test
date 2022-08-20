@@ -1,0 +1,10 @@
+{
+  "assetNameETH": "Ethereum",
+  "assetNameBTC": "Bitcoin",
+  "assetNameSOL": "Solana",
+  "default": "0",
+  "minimum": "1",
+  "negative": "-1",
+  "non_numeric": "test",
+  "valid": "100"
+}
